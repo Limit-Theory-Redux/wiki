@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:41:26.340Z
+date: 2023-07-17T15:46:54.000Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -21,7 +21,30 @@ Furthermore, most of the information is subject to change as the game is still i
 
 These are the wiki articles: 
 
-# Development
-
-| ## Development<br><br>[Development Overview](/Development-Overview)<br><br>## Wiki Development<br><br>[Question Pool](/question-pool) | ## Gameplay<br><br>[Blueprint Copy](/blueprint-copy)<br><br>[Blueprints](/blueprint)<br><br>[Command Interface](/command-interface)<br><br>[Heads Up Display](/heads-up-display)<br><br>[Wormhole](/wormhole)<br><br>[Market Interface](/market-interface)<br><br>[Contract](/contract)<br><br>[Power Distribution](/power-distribution)<br><br>## Subsystems<br><br>[Cruise mode](/cruise-mode)<br><br>[Hardpoints](/hardpoint)<br><br>[Shields](/shields)<br><br>[Weapons](/weapons) |     | ## Modding<br><br>[LuaJIT](/LuaJIT)<br><br>[Mod List](/mod-list) | ## Various<br><br>[About Limit Theory Redux](/about)<br><br>[Noteworthy Threads](/noteworthy-threads)<br><br>[Soundtrack](/soundtrack) |
-| --- | --- | --- | --- |
+## Development
+- [Overview *Limit Theory History*](/Development-Overview)
+- [Wiki Question Pool *Topics that still need to be added to the wiki*](/question-pool)
+{.links-list}
+## Gameplay
+- [Blueprints](/blueprint)
+- [Blueprint Copy](/blueprint-copy)
+- [Command Interface](/command-interface)
+- [Heads Up Display](/heads-up-display)
+- [Wormhole](/wormhole)
+- [Market Interface](/market-interface)
+- [Contract](/contract)
+- [Power Distribution](/power-distribution)
+{.links-list}
+## Subsystems
+- [Cruise mode](/cruise-mode)
+- [Hardpoints](/hardpoint)
+- [Shields](/shields)
+- [Weapons](/weapons)
+- [LuaJIT](/LuaJIT)
+- [Mod List](/mod-list)
+{.links-list}
+## Various
+- [About Limit Theory Redux](/about)
+- [Noteworthy Forum Threads](/noteworthy-threads)
+- [Soundtrack](/soundtrack)
+{.links-list}
