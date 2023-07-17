@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:53:21.388Z
+date: 2023-07-17T16:41:27.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -29,11 +29,12 @@ dateCreated: 2023-07-17T00:51:42.864Z
 - [Blueprints](/blueprint)
 - [Blueprint Copy](/blueprint-copy)
 - [Command Interface](/command-interface)
-- [Heads Up Display](/heads-up-display)
-- [Wormhole](/wormhole)
-- [Market Interface](/market-interface)
 - [Contract](/contract)
+- [Heads Up Display](/heads-up-display)
+- [Market Interface](/market-interface)
 - [Power Distribution](/power-distribution)
+- [Station](/station)
+- [Wormhole](/wormhole)
 {.links-list}
 ## Subsystems
 - [Cruise mode](/cruise-mode)
