@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T18:12:39.561Z
+date: 2023-07-17T18:28:20.937Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -40,6 +40,7 @@ dateCreated: 2023-07-17T00:51:42.864Z
 ## Subsystems
 - [Cruise mode](/cruise-mode)
 - [Hardpoints](/hardpoint)
+- [Sensors](/sensor)
 - [Shields](/shields)
 - [Weapons](/weapons)
 - [LuaJIT](/LuaJIT)
