@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:48:41.486Z
+date: 2023-07-17T15:49:17.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -13,7 +13,7 @@ dateCreated: 2023-07-17T00:51:42.864Z
 ![](/centered.png)
 <p style="text-align: center;">EXPLORE . TRADE . CONQUER . BUILD</p>
 
-This wiki is currently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
+This wiki is c urrently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
 
 Furthermore, most of the information is subject to change as the game is still in development.
 
