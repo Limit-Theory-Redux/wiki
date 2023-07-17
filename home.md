@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:46:54.000Z
+date: 2023-07-17T15:48:41.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -10,10 +10,8 @@ dateCreated: 2023-07-17T00:51:42.864Z
 
 # Welcome to the LTR Wiki!
 
-|     |
-| --- |
-| ![](/centered.png) |
-| EXPLORE . TRADE . CONQUER . BUILD |
+![](/centered.png)
+<p style="text-align: center;">EXPLORE . TRADE . CONQUER . BUILD</p>
 
 This wiki is currently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
 
