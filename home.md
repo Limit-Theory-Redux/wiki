@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:50:57.284Z
+date: 2023-07-17T15:52:14.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -22,7 +22,7 @@ Furthermore, most of the information is subject to change as the game is still i
 These are the wiki articles: 
 
 ## Development
-- [Overview *Limit Theory History*](/Development-Overview)
+- [Overview *Limit Theory History*](/dev-overview)
 - [Wiki Question Pool *Topics that still need to be added to the wiki*](/question-pool)
 {.links-list}
 ## Gameplay
