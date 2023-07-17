@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:49:17.744Z
+date: 2023-07-17T15:50:57.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -10,10 +10,12 @@ dateCreated: 2023-07-17T00:51:42.864Z
 
 # Welcome to the LTR Wiki!
 
-![](/centered.png)
-<p style="text-align: center;">EXPLORE . TRADE . CONQUER . BUILD</p>
+![](/centered.png) 
+<p style="text-align: center; margin-top: -25px;">EXPLORE . TRADE . CONQUER . BUILD</p>
 
-This wiki is c urrently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
+---
+
+This wiki is currently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
 
 Furthermore, most of the information is subject to change as the game is still in development.
 
