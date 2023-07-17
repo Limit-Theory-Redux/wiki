@@ -1,15 +1,12 @@
 ---
 title: Development Overview
-description: Development Overview
+description: 
 published: true
-date: 2023-07-17T01:08:39.926Z
+date: 2023-07-17T01:08:58.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
 ---
-
-# Development Overview
-
 
 Limit Theory was being developed by Josh Parnell and was founded December 2012 via Kickstarter. Limit Theory Redux is a community driven development project based on the open source released code of Limit Theory.
 
