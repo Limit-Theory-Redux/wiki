@@ -2,13 +2,17 @@
 title: Question Pool
 description: Collection of missing topics that should be added to this wiki.
 published: true
-date: 2023-07-17T16:04:29.938Z
+date: 2023-07-17T16:04:57.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:47:32.617Z
 ---
 
 # Question Pool
+
+> This page will eventually moved to the Discord as all discussions are done over there.
+{.is-warning}
+
 
 The purpose of this site is to collect all kinds of missing topics that should be added to this wiki.
 
