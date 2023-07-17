@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T15:52:14.051Z
+date: 2023-07-17T15:53:21.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -15,11 +15,11 @@ dateCreated: 2023-07-17T00:51:42.864Z
 
 ---
 
-This wiki is currently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
+> This wiki is currently under development. Any assistance updating and maintaining this wiki is greatly appreciated.
+{.is-info}
 
-Furthermore, most of the information is subject to change as the game is still in development.
-
-These are the wiki articles: 
+> Furthermore, most of the information is subject to change as the game is still in development.
+{.is-info}
 
 ## Development
 - [Overview *Limit Theory History*](/dev-overview)
