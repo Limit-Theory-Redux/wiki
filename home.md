@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-17T16:41:27.062Z
+date: 2023-07-17T18:12:39.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:51:42.864Z
@@ -33,6 +33,7 @@ dateCreated: 2023-07-17T00:51:42.864Z
 - [Heads Up Display](/heads-up-display)
 - [Market Interface](/market-interface)
 - [Power Distribution](/power-distribution)
+- [Production](/production)
 - [Station](/station)
 - [Wormhole](/wormhole)
 {.links-list}
