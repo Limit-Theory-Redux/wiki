@@ -1,8 +1,8 @@
 ---
 title: Development Overview
-description: 
+description: History of Limit Theory
 published: true
-date: 2023-07-17T01:08:58.454Z
+date: 2023-07-17T01:09:10.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
