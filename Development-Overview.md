@@ -2,14 +2,14 @@
 title: Development Overview
 description: Development Overview
 published: true
-date: 2023-07-17T00:40:26.659Z
+date: 2023-07-17T00:41:06.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
 ---
 
-# Header
-Overview
+# Development Overview
+
 
 Limit Theory is being developed by Josh Parnell and was founded December 2012 via Kickstarter.
 Kickstarter
