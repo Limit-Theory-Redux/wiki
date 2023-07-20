@@ -2,18 +2,20 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-17T15:51:45.274Z
+date: 2023-07-20T07:05:11.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
 ---
+
+
 
 Limit Theory was being developed by Josh Parnell and the result of a sucessful Kickstart campaign and a lot of passion. Limit Theory Redux is a community driven development project based on the open source released code of Limit Theory trying to fulfill the vision Josh Parnell had.
 
 Within his campaign he had 5449 backers, who pledged $187,865.  
 Besides his long article he also published a set of videos:
 
--   Kickstarter Video
+-   [Kickstarter Video] 
 -   Gameplay Demo 1 Gameplay Demo
 -   Gameplay Demo 2 Ship & Station Editor
 -   Gameplay Demo 3 Interface demo
