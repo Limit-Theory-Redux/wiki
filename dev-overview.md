@@ -2,7 +2,7 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-20T16:50:38.485Z
+date: 2023-07-20T16:57:59.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
@@ -88,11 +88,11 @@ April 5th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=5060
 April 27th [Josh makes a theorycrafting post](http://forums.ltheory.com/viewtopic.php?f=2&t=5060&p=124867#p124867) about module instancing.
 
 August 12th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=5316&p=132283#p132283) restating development is continuing, explaining recent real-life events that made him appear less (TLDR both him and his gf needing to find a new apartment and moving) and promising a more detailed update at some point in the future.  
-Development Log
+## Development Log
 
-A daily report can be found in his development logs, reachable through his forum.
+A daily report can be found in his [development logs](http://forums.ltheory.com/viewforum.php?f=12), reachable through the limit theory forum.
 
-Two summaries exist, one which includes all past devlogs and one which includes the weekly summaries
+Two summaries exist, one which includes [all past devlogs](https://drive.google.com/folderview?id=0Bx_vCk9siSVwMXlZazZSZl9EYlE&usp=sharing#list) and one which includes the [weekly summaries](https://docs.google.com/document/d/1Vyok7dEGwDJ2dHHtF3-HxRugvCSBLb7b9Btu8fPDsl8/edit)
 
 ### Bibliography
 
