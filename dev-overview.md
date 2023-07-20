@@ -2,7 +2,7 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-20T15:58:20.743Z
+date: 2023-07-20T16:20:06.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
@@ -27,33 +27,33 @@ Besides his long article he also published a set of videos:
 1.  [January 2013](http://youtu.be/53CQpjfM01w) New render engine, graphical improvements, [command interface](/command-interface) and [hardpoints](/hardpoint)
 2.  [February 2013](http://youtu.be/-ThoPpBw144) Sound & sound effects integrated, ship viewer, command interface
 3.  [March 2013](http://youtu.be/PoZ4MOeyH0M) Asteroid base, [market interface](/market-interface), ship interface, [heads up display](/heads-up-display) widgets, [contracts](/contract), and [power distribution](/power-distribution)
-4.  [Prototype Tutorial: April 2013](https://www.youtube.com/watch?v=tUPKTTsseHQ) General Gameplay, buy stuff and fit it on the ship, missions, basic fly & cruise mode, power distribution, combat, buying and repairing a ship in the ship viewer, fleet command, asset panel, command interface, fleet battle, advanced fleet control
-5.  May 2013 Graphical improvements in backgrounds and planets. warp lanes, free camera mode, jump gate, region map, jump drives
-6.  June 2013 Graphical improvements in textures, lightening and dust. Battleship, production on ships, new interfaces, hardpoints, guided missiles, Linux port
-7.  July 2013 Mac port, landing and flying on planets, simulation and AI, history
-8.  August 2013 Asteroid field, dynamic entity loading system, interface improvements, music, (abstract) AI
-9.  September 2013 Graphic improvements in dusts, dynamic lightening, lens flares. High level AI, built from smaller pieces.
-10.  October 2013 Graphical improvements in shaders. Double precision engine, larger planets, procedural research, LT data editor
-11.  November 2013 Graphical improvements in explosions. Overhauled AI and node based UI, oculus rift support
-12.  December 2013 Graphical improvements in nebulas, metal, motion related effects and lightening. Holographic 3D rendering, split screening, AI delegation, contracts, new release date
-13.  January 2014 Graphical improvements in ASMA & bloom. HUD, incl. glass mode, overlay, workspaces, scanner and holographic ship viewer deployed. Node interactions
-14.  February 2014 Ice fields, ship & station algorithm, scanner (frequency analysis), (prospecting) drones, dynamic mass system
-15.  March 2014 Local economy including the market and lots of NPC. Self-regulating of demand and supply. ENPC (NPCs with "superior officer" ability)
-16.  April 2014 Graphical improvements general, miners and pirates, UI overhaul, projects, new trade & command interface
-17.  May 2014 Graphical improvements in nebulas. Technology and science, blueprints, assembly chips, missions, database, metaproject AI
-18.  June 2014 Zone tech, planetary colonies, dogfighting
-19.  July 2014 Performance enhancement, zone LOD, ingame script editor, LTSL, UI improvements
-20.  August & September 2014 UI, more zone LOD, colonies and AI traits, LTSL demo, development testbeds
-21.  October & November 2014 Warp rails, planetary rings, rudimentary system map, market interface, object viewer, text rendering
+4.  [Prototype Tutorial: April 2013](https://www.youtube.com/watch?v=tUPKTTsseHQ) General Gameplay, buy stuff and fit it on the ship, [contracts](/contract), basic fly & cruise mode, power distribution, combat, buying and repairing a ship in the ship viewer, fleet command, asset panel, command interface, fleet battle, advanced fleet control
+5.  [May 2013](https://www.youtube.com/watch?v=t6vVziWb00U) Graphical improvements in backgrounds and planets. warp lanes, free camera mode, jump gate, region map, jump drives
+6.  [June 2013](https://www.youtube.com/watch?v=IqT1Lr6dnLs) Graphical improvements in textures, lightening and dust. Battleship, production on ships, new interfaces, hardpoints, guided missiles, Linux port
+7.  [July 2013](https://www.youtube.com/watch?v=mrFoesWWT30) Mac port, landing and flying on planets, simulation and AI, history
+8.  [August 2013](https://www.youtube.com/watch?v=tZK2VWhjVGg) Asteroid field, dynamic entity loading system, interface improvements, music, (abstract) AI
+9.  [September 2013](https://www.youtube.com/watch?v=Fq4gih_AX44) Graphic improvements in dusts, dynamic lightening, lens flares. High level AI, built from smaller pieces.
+10.  [October 2013](https://www.youtube.com/watch?v=KN3tKT0E0t8) Graphical improvements in shaders. Double precision engine, larger planets, procedural research, LT data editor
+11.  [November 2013](https://www.youtube.com/watch?v=Ekq56VZqQvs) Graphical improvements in explosions. Overhauled AI and node based UI, oculus rift support
+12.  [December 2013](https://www.youtube.com/watch?v=ADcfqusFfaM) Graphical improvements in nebulas, metal, motion related effects and lightening. Holographic 3D rendering, split screening, AI delegation, contracts, new release date
+13.  [January 2014](https://www.youtube.com/watch?v=YBf1odVtlWk) Graphical improvements in ASMA & bloom. HUD, incl. glass mode, overlay, workspaces, scanner and holographic ship viewer deployed. Node interactions
+14.  [February 2014](https://www.youtube.com/watch?v=e8SOZxCXokg) Ice fields, ship & station algorithm, scanner (frequency analysis), (prospecting) drones, dynamic mass system
+15.  [March 2014](https://www.youtube.com/watch?v=k4PVSIShRgM) Local economy including the market and lots of NPC. Self-regulating of demand and supply. ENPC (NPCs with "superior officer" ability)
+16.  [April 2014](https://www.youtube.com/watch?v=A2albJYS-wI) Graphical improvements general, miners and pirates, UI overhaul, projects, new trade & command interface
+17.  [May 2014](https://www.youtube.com/watch?v=VshxojiNqJk) Graphical improvements in nebulas. Technology and science, blueprints, assembly chips, missions, database, metaproject AI
+18.  [June 2014](https://www.youtube.com/watch?v=4r6N7_HAsZo) Zone tech, planetary colonies, dogfighting
+19.  [July 2014](https://www.youtube.com/watch?v=UGP7S2Oq0M8) Performance enhancement, zone LOD, ingame script editor, LTSL, UI improvements
+20.  [August & September 2014](https://www.youtube.com/watch?v=MumoTz8CKtE) UI, more zone LOD, colonies and AI traits, LTSL demo, development testbeds
+21.  [October & November 2014](https://www.youtube.com/watch?v=MumoTz8CKtE) Warp rails, planetary rings, rudimentary system map, market interface[market-interface](/market-interface), object viewer, text rendering
 
-Recent videos also can be downloaded in Ultra High Quality, via torrent. See this thread within the forum.  
-Road To Beta
+Recent videos also can be downloaded in Ultra High Quality, via torrent. See this thread within the [forum](http://forums.ltheory.com/viewtopic.php?f=11&t=2642).  
+## Road To Beta
 
 After the 21st video update Josh announced that there would be no more video updates due to the stress the format induced. Later, at the start of January, he announced the new update format, called Road To Beta.  
 The update exists of a small weekly update existing mainly of text and images to convey how LT has grown towards a more complete game in the past week.^1^
 
--   RTB Chapter 1 HUD, Hardpoint control groups and HUD customization
--   RTB Chapter 2 Object overview, cargo management and general UI finalisation work
+-   [RTB Chapter 1](https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/posts/1107942) HUD, Hardpoint control groups and HUD customization
+-   [RTB Chapter 2](https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/posts/1114851) Object overview, cargo management and general UI finalisation work
 
 After week 2, no further RTB updates have come out. There are indications that Josh is still working on LT, however, since he has also gone silent on the forums (probably lurking^2^) no info on the future of the RTB updates is known.  
 Here's Josh's last post before disappearing, out of which the reader can draw their own conclusions. Link  
