@@ -2,7 +2,7 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-20T07:05:11.173Z
+date: 2023-07-20T15:35:47.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
@@ -15,12 +15,12 @@ Limit Theory was being developed by Josh Parnell and the result of a sucessful K
 Within his campaign he had 5449 backers, who pledged $187,865.  
 Besides his long article he also published a set of videos:
 
--   [Kickstarter Video] 
--   Gameplay Demo 1 Gameplay Demo
--   Gameplay Demo 2 Ship & Station Editor
--   Gameplay Demo 3 Interface demo
--   Gameplay Demo 4 Procedural Generation of Space stations
--   Gameplay Demo 5 Asteroid Bases, Carrier Ships and landing on objects
+-   [Kickstarter Video](http://youtu.be/o3KDeQOEwzE)
+-   [Gameplay Demo 1 Gameplay Demo](http://youtu.be/hNU02rDSSvI)
+-   [Gameplay Demo 2 Ship & Station Editor](http://youtu.be/qzHrpptj5vQ)
+-   [Gameplay Demo 3 Interface demo](http://youtu.be/s4FPq9nfcps)
+-   [Gameplay Demo 4 Procedural Generation of Space stations](http://youtu.be/nBtZKio_J20)
+-   [Gameplay Demo 5](http://youtu.be/KLINRbq3QKM) [Asteroid Bases](http://limit-theory.wikidot.com/asteroid-bases), [Carrier Ships](http://limit-theory.wikidot.com/carrier-ships) and landing on objects
 
 Development Videos
 
