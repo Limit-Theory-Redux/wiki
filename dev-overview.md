@@ -2,7 +2,7 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-20T16:20:06.986Z
+date: 2023-07-20T16:50:38.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
@@ -55,39 +55,39 @@ The update exists of a small weekly update existing mainly of text and images to
 -   [RTB Chapter 1](https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/posts/1107942) HUD, Hardpoint control groups and HUD customization
 -   [RTB Chapter 2](https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/posts/1114851) Object overview, cargo management and general UI finalisation work
 
-After week 2, no further RTB updates have come out. There are indications that Josh is still working on LT, however, since he has also gone silent on the forums (probably lurking^2^) no info on the future of the RTB updates is known.  
-Here's Josh's last post before disappearing, out of which the reader can draw their own conclusions. Link  
-Post-RTB
+After week 2, no further RTB updates came out. ~~There are indications that Josh was still working on LT, however, since he also went silent on the forums no info on the future of the RTB updates was known.  
+Here's Josh's last post before disappearing, out of which the reader can draw their own conclusions.~~ [Link](http://www.forums.ltheory.com/viewtopic.php?f=2&t=4065&p=87747#p87747)  
+## Post-RTB
 
-On April 8th 2015 RPS posted that they received an email from Josh stating that he is currently working on Limit Theory despite unrelated matters which limit his communication.
+On April 8th 2015 [RPS posted](http://www.rockpapershotgun.com/2015/04/08/mia-limit-theorys-josh-parnell-has-gone-quiet/) that they received an email from Josh stating that he is currently working on Limit Theory despite unrelated matters which limit his communication.
 
-On May 31st Josh made a long post on the forum explaining the reasons for his silence (in short, a serious case of burnout and related mental health issues) and announcing his recovery and return, and stating updates will resume at some point in the future when Josh feels ready, but he is working on LT.
+On May 31st [Josh made a long post](http://forums.ltheory.com/viewtopic.php?f=11&t=4492) on the forum explaining the reasons for his silence (in short, a serious case of burnout and related mental health issues) and announcing his recovery and return, and stating updates will resume at some point in the future when Josh feels ready, but he is working on LT.
 
-On Augustus 14th Josh made another forum post, this time explaining his current way of LT development; he got an office at the Lousiana Tech Park, and is working normal healthy hours, with weekend breaks.
+On August 14th [Josh made another forum post](http://forums.ltheory.com/viewtopic.php?f=11&t=4640#p106965), this time explaining his current way of LT development; he got an office at the Lousiana Tech Park, and is working normal healthy hours, with weekend breaks.
 
-On September 17th he made a new Kickstarter update explaining what he said in the previous forum posts to the backers, and also releasing the full LT flickr album plus some photo's of his new office to the public.
+On September 17th he made a new [Kickstarter update](https://www.kickstarter.com/projects/joshparnell/limit-theory-an-infinite-procedural-space-game/posts/1122988) explaining what he said in the previous forum posts to the backers, and also releasing the [full LT flickr album](https://www.flickr.com/photos/129047878@N03) plus some [photo's of his new office](http://ltheory.com/images/office/) to the public.
 
-Since then he regularly visits and posts on the forum, usually not getting into specifics but indicating that development is continuing fine.
+Since then he regularly visited and posted on the forum, usually not getting into specifics but indicating that development was continuing fine.
 
-November 16th Josh makes a post where he explains why there aren't any 'shiny' updates at the moment: the engine has become too complicated so he is currently working on separating the different components of it to make it efficiënt enough and easier (or, possible) to debug.
+November 16th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=11&t=4640&p=114850#p114850) where he explains why there aren't any 'shiny' updates at the moment: the engine has become too complicated so he is currently working on separating the different components of it to make it efficient enough and easier (or, possible) to debug.
 
-December 5th Josh makes a post about why this is necessary, after getting critique for working on the engine instead of on the gameplay.
+December 5th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=4859&start=180#p115867) about why this is necessary, after getting critique for working on the engine instead of on the gameplay.
 
-January 20th 2016 Business Report released an article interviewing (among others) Josh which states he hopes for a beta release in about 6 months. Josh then stated this was not actually supposed to be disclosed, so take that number with a grain of salt.
+January 20th 2016 Business Report released [an article](https://www.businessreport.com/business/louisiana-tech-park-video-games) interviewing (among others) Josh which states he hopes for a beta release in about 6 months. [Josh then stated](http://forums.ltheory.com/viewtopic.php?f=2&t=2152&start=225#p118649) this was not actually supposed to be disclosed, so take that number with a grain of salt.
 
-January 22nd Josh makes a post about him giving a presentation to the LTP (the office he currently works in) which was a succes, making him an official tenant now. Some of the board members also volunteered to be his advisors.
+January 22nd [Josh makes a post](http://forums.ltheory.com/viewtopic.php?p=118714#p118714) about him giving a presentation to the LTP (the office he currently works in) which was a success, making him an official tenant now. Some of the board members also volunteered to be his advisors.
 
-February 24th Josh makes a post detailing his engine work, stating it has come to fruition, development is going great and he is working on game code along with finishing the last engine parts.
+February 24th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=4859&p=120853#p120850) detailing his engine work, stating it has come to fruition, development is going great and he is working on game code along with finishing the last engine parts.
 
-March 9th Josh makes a post detailing the new structure of the engine, restating game code is being worked on now.
+March 9th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=4859&p=121865#p121861) detailing the new structure of the engine, restating game code is being worked on now.
 
-March 23rd Josh makes a post telling about his experiences at GDC 2016.
+March 23rd [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=5040&p=122590#p122590) telling about his experiences at GDC 2016.
 
-April 5th Josh makes a post giving more info about the new engine, stating that the new scripting language used in LT and for modding is Python 2.7, and providing proof of development by showing screenshots of his version controll.
+April 5th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=5060&start=15#p123136) giving more info about the new engine, stating that the new scripting language used in LT and for modding is Python 2.7, and providing proof of development by showing screenshots of his version control.
 
-April 27th Josh makes a theorycrafting post about module instancing.
+April 27th [Josh makes a theorycrafting post](http://forums.ltheory.com/viewtopic.php?f=2&t=5060&p=124867#p124867) about module instancing.
 
-August 12th Josh makes a post restating development is continuing, explaining recent real-life events that made him appear less (TLDR both him and his gf needing to find a new appartement and moving) and promising a more detailed update at some point in the future.  
+August 12th [Josh makes a post](http://forums.ltheory.com/viewtopic.php?f=2&t=5316&p=132283#p132283) restating development is continuing, explaining recent real-life events that made him appear less (TLDR both him and his gf needing to find a new apartment and moving) and promising a more detailed update at some point in the future.  
 Development Log
 
 A daily report can be found in his development logs, reachable through his forum.
