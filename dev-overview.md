@@ -2,7 +2,7 @@
 title: Development Overview
 description: History of Limit Theory
 published: true
-date: 2023-07-20T15:35:47.601Z
+date: 2023-07-20T15:58:20.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T00:40:26.659Z
@@ -22,12 +22,12 @@ Besides his long article he also published a set of videos:
 -   [Gameplay Demo 4 Procedural Generation of Space stations](http://youtu.be/nBtZKio_J20)
 -   [Gameplay Demo 5](http://youtu.be/KLINRbq3QKM) [Asteroid Bases](http://limit-theory.wikidot.com/asteroid-bases), [Carrier Ships](http://limit-theory.wikidot.com/carrier-ships) and landing on objects
 
-Development Videos
+## Development Videos
 
-1.  January 2013 New render engine, graphical improvements, command interface, hardpoints
-2.  February 2013 Sound & sound effects integrated, ship viewer, command interface
-3.  March 2013 Asteroid base, market interface, ship interface, heads up interface widgets, missions, power distribution
-4.  Prototype Tutorial: April 2013 General Gameplay, buy stuff and fit it on the ship, missions, basic fly & cruise mode, power distribution, combat, buying and repairing a ship in the ship viewer, fleet command, asset panel, command interface, fleet battle, advanced fleet control
+1.  [January 2013](http://youtu.be/53CQpjfM01w) New render engine, graphical improvements, [command interface](/command-interface) and [hardpoints](/hardpoint)
+2.  [February 2013](http://youtu.be/-ThoPpBw144) Sound & sound effects integrated, ship viewer, command interface
+3.  [March 2013](http://youtu.be/PoZ4MOeyH0M) Asteroid base, [market interface](/market-interface), ship interface, [heads up display](/heads-up-display) widgets, [contracts](/contract), and [power distribution](/power-distribution)
+4.  [Prototype Tutorial: April 2013](https://www.youtube.com/watch?v=tUPKTTsseHQ) General Gameplay, buy stuff and fit it on the ship, missions, basic fly & cruise mode, power distribution, combat, buying and repairing a ship in the ship viewer, fleet command, asset panel, command interface, fleet battle, advanced fleet control
 5.  May 2013 Graphical improvements in backgrounds and planets. warp lanes, free camera mode, jump gate, region map, jump drives
 6.  June 2013 Graphical improvements in textures, lightening and dust. Battleship, production on ships, new interfaces, hardpoints, guided missiles, Linux port
 7.  July 2013 Mac port, landing and flying on planets, simulation and AI, history
